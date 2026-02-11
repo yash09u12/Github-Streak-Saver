@@ -129,7 +129,7 @@ echo "Updated on: $(TZ='Asia/Kolkata' date '+%Y-%m-%d %H:%M:%S %Z')" >> history.
 ### 1️⃣ Fork or Clone This Repository
 
 ```bash
-git clone https://github.com/shauryaverma03/github-streak-saver.git
+git clone https://github.com/yash09u12/Github-Streak-Saver.git
 cd github-streak-saver
 ```
 
